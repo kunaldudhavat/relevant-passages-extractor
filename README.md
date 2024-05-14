@@ -1,4 +1,4 @@
-# Relevenat Passages Extractor
+# Relevant Passages Extractor
 
 ## Introduction
 
